@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadinTiholov
 - 👀 I’m interested in programming and game development
-- 🌱 I’m currently learning C# and JS
+- 🌱 I’m currently learning C#, JS and T-SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
